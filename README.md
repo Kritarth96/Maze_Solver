@@ -32,5 +32,5 @@ This repository contains the design, code, and documentation for a bot developed
    Place the bot on a test track and power it on to start the competition simulation.
 
 ## Future Enhancements
-Add dynamic obstacle detection.
-Optimize pathfinding for larger mazes.
+- Add dynamic obstacle detection.
+- Optimize pathfinding for larger mazes.
