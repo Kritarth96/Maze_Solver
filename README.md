@@ -25,10 +25,10 @@ This repository contains the design, code, and documentation for a bot developed
 
 2. **Open the code in the Arduino IDE and upload it to the Arduino Nano.**
 
-3. **Assemble the Hardware**
+3. **Assemble the Hardware:**
    Follow the circuit diagram provided in the repository to connect the components.
 
-4. **Test the Bot**
+4. **Test the Bot:**
    Place the bot on a test track and power it on to start the competition simulation.
 
 ## Future Enhancements
