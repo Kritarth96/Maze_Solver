@@ -1,5 +1,3 @@
-# Maze_Solver
-This repository contains the design, code, and documentation for a bot developed for the Meshmerize competition at IIT Bombay's Techfest. The bot successfully navigates through complex mazes and line-based paths, implementing advanced maze-solving algorithms and efficient line-following techniques. 
 # Meshmerize Bot for IIT Bombay Techfest
 
 This repository contains the design, code, and documentation for a bot developed for the **Meshmerize** competition at IIT Bombay's Techfest. The bot successfully navigates complex mazes and line-based paths, implementing advanced maze-solving algorithms and efficient line-following techniques. This project secured **3rd place in the Jaipur zonals** of the competition.
