@@ -24,7 +24,7 @@ This repository contains the design, code, and documentation for a bot developed
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/yourusername/meshmerize-bot.git
-   Upload the Code
+
 2. **Open the code in the Arduino IDE and upload it to the Arduino Nano.**
 
 3. **Assemble the Hardware**
